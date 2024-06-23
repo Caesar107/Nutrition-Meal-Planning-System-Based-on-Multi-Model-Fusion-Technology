@@ -1,0 +1,42 @@
+2024-04-02 19:19:14.278 | SUCCESS  | __main__:<module>:19 - load model successfully
+2024-04-02 19:20:26.003 | SUCCESS  | __main__:<module>:19 - load model successfully
+2024-04-02 19:26:39.663 | SUCCESS  | __main__:<module>:19 - load model successfully
+2024-04-02 19:52:07.125 | SUCCESS  | __main__:<module>:29 - load model successfully
+2024-04-02 19:52:36.983 | SUCCESS  | __main__:<module>:29 - load model successfully
+2024-04-06 14:31:19.098 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-04-06 14:31:19.101 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-04-06 14:31:21.151 | SUCCESS  | __main__:<module>:31 - load model successfully
+2024-04-06 14:33:21.028 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-04-06 14:33:21.029 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-04-06 14:33:24.981 | SUCCESS  | __main__:<module>:31 - load model successfully
+2024-04-06 14:33:28.969 | WARNING  | __main__:predict:43 - user_id: 4, user_idx: 2
+2024-04-06 14:33:46.104 | WARNING  | __main__:predict:43 - user_id: 10, user_idx: 8
+2024-04-06 14:38:46.935 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:39:21.073 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:39:26.187 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:43:29.171 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:43:51.411 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:44:04.660 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:44:30.907 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:44:34.078 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:44:56.939 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:46:23.550 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:47:35.310 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:47:45.126 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:50:33.550 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:50:35.989 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:51:41.538 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 14:53:49.165 | WARNING  | __main__:predict:43 - user_id: 1, user_idx: None
+2024-04-06 19:56:42.554 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-04-06 19:56:42.556 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-04-06 19:56:52.245 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-04-06 19:56:52.246 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-04-06 19:56:57.283 | SUCCESS  | __main__:<module>:31 - load model successfully
+2024-04-06 19:59:03.398 | WARNING  | __main__:predict:43 - user_id: 4, user_idx: 2
+2024-04-06 19:59:22.555 | WARNING  | __main__:predict:43 - user_id: 4, user_idx: 2
+2024-05-18 11:52:25.124 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-05-18 11:52:25.125 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-05-18 11:52:49.193 | INFO     | __main__:<module>:24 - item shape: (500, 64)
+2024-05-18 11:52:49.194 | INFO     | __main__:<module>:25 - user shape: (99, 64)
+2024-05-18 11:52:53.785 | SUCCESS  | __main__:<module>:31 - load model successfully
+2024-05-18 15:42:18.721 | WARNING  | __main__:predict:43 - user_id: 5, user_idx: 3

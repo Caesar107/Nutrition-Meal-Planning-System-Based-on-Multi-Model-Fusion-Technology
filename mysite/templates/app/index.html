@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}  {# 加载静态文件的模板标签 #}
+
+{% block content %}
+<div class="jumbotron">
+    <h1 class="display-4">多模型配餐推荐系统</h1>
+    <p class="lead">融合Item与User特征构建</p>
+    <hr class="my-4">
+</div>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col text-center">
+            <img src="{% static 'images/main.jpg' %}" alt="Food Recommendation System" class="img-fluid">
+        </div>
+    </div>
+</div>
+{% endblock %}

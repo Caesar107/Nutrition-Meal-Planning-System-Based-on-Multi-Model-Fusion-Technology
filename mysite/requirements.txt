@@ -1,0 +1,13 @@
+django==4.0
+django_tables2
+django_bootstrap5
+django_simple_captcha
+django_simpleui
+django_ckeditor
+django-extensions
+pymysql
+sqlalchemy==1.4.42
+loguru
+django-environ
+# django-ninja
+django-debug-toolbar

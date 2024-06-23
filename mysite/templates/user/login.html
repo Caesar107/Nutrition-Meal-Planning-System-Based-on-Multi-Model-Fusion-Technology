@@ -1,0 +1,12 @@
+{% extends 'user/base.html' %}
+{% block form-area %}
+    {% load django_bootstrap5 %}
+    <h4 class="text-center">登录</h4>
+    <form action="" method="POST">
+        {% csrf_token %}
+        {% bootstrap_form user_form  %}
+        <div class="text-center">
+            {% bootstrap_button "提交" button_type="submit" button_class="btn-primary btn-block" %}
+        </div>  
+    </form>
+{% endblock %}
